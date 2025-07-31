@@ -1,6 +1,6 @@
 <!-- Foto Profil -->
 <p align="center">
-  <img src="![tsunade-at-her-desk-bakoh4jeg42sjn3c](https://github.com/user-attachments/assets/84e8341e-fa54-41ce-9539-bf7007b36eb6)
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapersok.com%2Fwallpapers%2Ftsunade-at-her-desk-bakoh4jeg42sjn3c.html&psig=AOvVaw06o3ZWqsdfH9EfkW7UJbJb&ust=1754019395481000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOCk39GV5o4DFQAAAAAdAAAAABAE
 " width="150" alt="Profile Picture" style="border-radius: 50 %;" />
 </p>
 
@@ -23,12 +23,8 @@
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
@@ -51,7 +47,7 @@
 
 ### 🔗 Let's Connect!
 <p>
-  <a href="mailto:slebewnata@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:adinatasatria8@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://wa.me/6281234567890"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="https://github.com/slebewnata"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
