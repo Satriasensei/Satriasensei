@@ -1,6 +1,6 @@
 <!-- Foto Profil -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/171724075?v=4" width="150" alt="Satriasensei" style="border-radius: 50 %;" />
+  <img src="https://github.com/Satriasensei/Satriasensei/blob/main/tsunade-at-her-desk-bakoh4jeg42sjn3c.jpg?raw=true style="border-radius: 100 %;" />
 </p>
 
 <!-- Nama -->
