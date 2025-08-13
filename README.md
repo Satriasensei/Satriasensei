@@ -48,8 +48,8 @@
 ### 🖼️ Galeri
 <p align="center">
   <img src="25d6ad54-8192-4bea-9fd8-ded097efb832.jpeg" width="32%"/>
-  <img src="https://i.imgur.com/6i4oF2M.png" width="32%"/>
-  <img src="https://i.imgur.com/Zm3oV9o.png" width="32%"/>
+  <img src="3448bc0c-da4e-421d-82e2-0f4ca23da126.jpeg" width="32%"/>
+  <img src="55cd6cdb-53c6-4e77-95d8-62da3229f3c0.jpeg" width="32%"/>
 </p>
 
 ---
