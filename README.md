@@ -55,9 +55,9 @@
 ---
 
 ### 🧪 Project Pilihan
-- 🦋 **Butterfly UI** — Komponen UI bertema Shinobu (Tailwind + DaisyUI)  
-- 🌸 **Breath of Code** — Starter Laravel + autentikasi + dark mode  
-- 🧬 **Poison Lab** — Koleksi snippet testing PHPUnit/Pest  
+- 🦋 **Tampilan UI** — Membuat Project Sistem Uang Kas
+- 🌸 **Desain Web** — Membuat Desain Website Sekolah
+- 🧬 **UX** — Membuat Desain Web di Figma  
 
 ---
 
