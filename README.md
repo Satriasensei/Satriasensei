@@ -72,13 +72,14 @@
 ---
 
 ### 🎨 Palet Warna Shinobu
-| Warna | Hex | Contoh |
-|-------|-----|--------|
-| Lavender | `#8B5CF6` | ![#8B5CF6](https://via.placeholder.com/15/8B5CF6/000000?text=+) |
-| Lilac | `#A78BFA` | ![#A78BFA](https://via.placeholder.com/15/A78BFA/000000?text=+) |
-| Teal | `#14B8A6` | ![#14B8A6](https://via.placeholder.com/15/14B8A6/000000?text=+) |
-| Night | `#0D1117` | ![#0D1117](https://via.placeholder.com/15/0D1117/000000?text=+) |
-| Soft White | `#F8FAFC` | ![#F8FAFC](https://via.placeholder.com/15/F8FAFC/000000?text=+) |
+| Warna       | Hex       | Contoh |
+|-------------|-----------|--------|
+| Lavender    | `#8B5CF6` | <img src="https://singlecolorimage.com/get/8B5CF6/15x15" /> |
+| Lilac       | `#A78BFA` | <img src="https://singlecolorimage.com/get/A78BFA/15x15" /> |
+| Teal        | `#14B8A6` | <img src="https://singlecolorimage.com/get/14B8A6/15x15" /> |
+| Night       | `#0D1117` | <img src="https://singlecolorimage.com/get/0D1117/15x15" /> |
+| Soft White  | `#F8FAFC` | <img src="https://singlecolorimage.com/get/F8FAFC/15x15" /> |
+
 
 ---
 
