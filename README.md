@@ -47,7 +47,7 @@
 
 ### 🖼️ Galeri
 <p align="center">
-  <img src="https://i.imgur.com/8cvYk6D.png" width="32%"/>
+  <img src="25d6ad54-8192-4bea-9fd8-ded097efb832.jpeg" width="32%"/>
   <img src="https://i.imgur.com/6i4oF2M.png" width="32%"/>
   <img src="https://i.imgur.com/Zm3oV9o.png" width="32%"/>
 </p>
