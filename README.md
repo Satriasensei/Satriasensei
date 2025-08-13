@@ -1,6 +1,6 @@
 <!-- Profil GitHub — Tema Shinobu Kochou -->
 <p align="center">
-  <img src="" alt="Banner Shinobu" width="100%"/>
+  <img src="17ffdc68-be15-47bd-8c89-50b4696488b7.jpeg" alt="Banner Shinobu" width="100%"/>
 </p>
 
 <h1 align="center">🦋 こんにちは — I'm <strong>Satriasensei</strong>!</h1>
@@ -18,11 +18,11 @@
 - 💜 Penggemar **Shinobu Kochou** & estetika **butterfly**.
 - 🧪 Fokus di **Laravel**, **Tailwind CSS**, **JavaScript**, **MySQL**.
 - 🌱 Sedang belajar **Clean Architecture** dan **Testing**.
-- 📫 Kontak: satria@example.com | IG: @satriasensei
+- 📫 Kontak: igedesatriaadinata@gmail.com | IG: @satriasensei
 
 ---
 
-### ⚙️ Tech Stack
+### ⚙️ Leaguan Program I Learn
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
