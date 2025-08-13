@@ -15,14 +15,14 @@
 ---
 
 ### 🦋 Tentang Saya
-- 💜 Penggemar **Shinobu Kochou** & estetika **butterfly**.
+- 💜 Penggemar **Shinobu Kochou**
 - 🧪 Fokus di **Laravel**, **Tailwind CSS**, **JavaScript**, **MySQL**.
 - 🌱 Sedang belajar **Clean Architecture** dan **Testing**.
-- 📫 Kontak: igedesatriaadinata@gmail.com | IG: @satriasensei
+- 📫 Kontak: igedesatriaadinata@gmail.com | IG: @satria_adinata15
 
 ---
 
-### ⚙️ Leaguan Program I Learn
+### ⚙️ Programming Languages That I Learned
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
@@ -47,9 +47,11 @@
 
 ### 🖼️ Galeri
 <p align="center">
-  <img src="25d6ad54-8192-4bea-9fd8-ded097efb832.jpeg" width="32%"/>
-  <img src="3448bc0c-da4e-421d-82e2-0f4ca23da126.jpeg" width="32%"/>
+  <img src="⏤͟͟͞͞𝘋𝘦𝘮𝘰𝘯 𝘚𝘭𝘢𝘺𝘦𝘳 _ 𝘐𝘤𝘰𝘯𝘴.jpeg" width="32%"/>
+  <img src="shinobu kocho official art!🦋.jpeg" width="32%"/>
+  <img src="5a74aa3a-aae6-45c9-9a1f-dca0e423ad13.jpeg" width="32%"/>
   <img src="55cd6cdb-53c6-4e77-95d8-62da3229f3c0.jpeg" width="32%"/>
+  <img src="3448bc0c-da4e-421d-82e2-0f4ca23da126.jpeg" width="32%"/>
 </p>
 
 ---
