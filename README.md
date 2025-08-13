@@ -1,71 +1,81 @@
-<!-- Foto Profil -->
+<!-- Profil GitHub — Tema Shinobu Kochou -->
 <p align="center">
-  <img src="https://github.com/Satriasensei/Satriasensei/blob/main/tsunade-at-her-desk-bakoh4jeg42sjn3c.jpg?raw=true style="border-radius: 100 %;" />
+  <img src="" alt="Banner Shinobu" width="100%"/>
 </p>
 
-<!-- Nama -->
-<h1 align="center">Hi 👋, I'm Satria</h1>
-
-
----
-
-### 🧠 About Me
-
-- 🔭 I’m currently working on **Class Cash App**
-- 🌱 Currently learning **Laravel 11**, **Filament**, and **Modern Web Design**
-- 🧩 Always open for collaboration and learning opportunities
-- 📫 Reach me at: **adinatasatria8@gmail.com**
-- ⚡ Fun fact: I like Sunset
-
----
-
-### 💼 Skills & Tech Stack
-
+<h1 align="center">🦋 こんにちは — I'm <strong>Satriasensei</strong>!</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://readme-typing-svg.demolab.com?lines=Butterfly+Breathing;Clean+Code+%26+Calm+Mind;Open+Source+%F0%9F%92%9C;Kimetsu+no+Yaiba+Fan&center=true&width=500&height=45&color=8B5CF6&pause=1000&size=24"/>
 </p>
 
+<blockquote align="center">
+  “Even the smallest poison can bring down a giant. — Shinobu Kochou”
+</blockquote>
+
 ---
 
-### 📈 GitHub Stats
+### 🦋 Tentang Saya
+- 💜 Penggemar **Shinobu Kochou** & estetika **butterfly**.
+- 🧪 Fokus di **Laravel**, **Tailwind CSS**, **JavaScript**, **MySQL**.
+- 🌱 Sedang belajar **Clean Architecture** dan **Testing**.
+- 📫 Kontak: satria@example.com | IG: @satriasensei
 
+---
+
+### ⚙️ Tech Stack
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+---
+
+### 📊 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satriasensei&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satriasensei&layout=compact&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Satriasensei&show_icons=true&hide_border=true&title_color=8B5CF6&text_color=C4B5FD&icon_color=A78BFA&bg_color=0D1117" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satriasensei&layout=compact&hide_border=true&title_color=14B8A6&text_color=99F6E4&bg_color=0D1117" height="160"/>
 </p>
 
----
-
-### 🚀 Featured Projects
-
-| Project Name | Description | Stack |
-|--------------|-------------|--------|
-| ✈️ Flight Booking App | Laravel-based ticket booking with Filament & Tailwind | Laravel 11, Filament |
-| 💰 Class Cash System | Web app to manage student class finance | PHP, MySQL, HTML/CSS |
-
----
-### 🌐 Let's Connect
-
 <p align="center">
-  <a href="mailto:adinatasatria8@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://wa.me/6287754785064"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://instagram.com/Nata_Xari"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://github.com/Satriasensei"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://streak-stats.demolab.com?user=Satriasensei&theme=transparent&date_format=j%20M%5B%20Y%5D&ring=8B5CF6&fire=22D3EE&currStreakLabel=A78BFA" alt="GitHub Streak"/>
 </p>
 
 ---
 
-### 💬 Favorite Quote
-> *"Tetap Semangat dan jangan menyerah kamu bisa - Satria adinata*
+### 🖼️ Galeri
+<p align="center">
+  <img src="https://i.imgur.com/8cvYk6D.png" width="32%"/>
+  <img src="https://i.imgur.com/6i4oF2M.png" width="32%"/>
+  <img src="https://i.imgur.com/Zm3oV9o.png" width="32%"/>
+</p>
 
 ---
 
-### 👁️‍🗨️ Visitor Count
+### 🧪 Project Pilihan
+- 🦋 **Butterfly UI** — Komponen UI bertema Shinobu (Tailwind + DaisyUI)  
+- 🌸 **Breath of Code** — Starter Laravel + autentikasi + dark mode  
+- 🧬 **Poison Lab** — Koleksi snippet testing PHPUnit/Pest  
+
+---
+
+> *“Tetap tenang, tapi jangan lengah. Kupu-kupu terlihat rapuh, namun racunnya mematikan.”*
+
+---
+
+### 🎨 Palet Warna Shinobu
+| Warna | Hex | Contoh |
+|-------|-----|--------|
+| Lavender | `#8B5CF6` | ![#8B5CF6](https://via.placeholder.com/15/8B5CF6/000000?text=+) |
+| Lilac | `#A78BFA` | ![#A78BFA](https://via.placeholder.com/15/A78BFA/000000?text=+) |
+| Teal | `#14B8A6` | ![#14B8A6](https://via.placeholder.com/15/14B8A6/000000?text=+) |
+| Night | `#0D1117` | ![#0D1117](https://via.placeholder.com/15/0D1117/000000?text=+) |
+| Soft White | `#F8FAFC` | ![#F8FAFC](https://via.placeholder.com/15/F8FAFC/000000?text=+) |
+
+---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Satriasensei&label=Profile+Visitors&color=brightgreen" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=14B8A6&text=Arigatou%20%F0%9F%A6%8B&fontColor=0D1117&fontSize=40&height=100"/>
 </p>
