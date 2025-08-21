@@ -105,7 +105,7 @@
 
 ### 📌 Pinned Projects
 <p align="center">
-  <a href="https://github.com/Satriasensei/project1">
+  <a href="[https://github.com/Satriasensei/project1](https://github.com/Satriasensei/Project-Sistem-Uang-Kas-Kelas-XI-RPL-1.git)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satriasensei&repo=project1&theme=tokyonight"/>
   </a>
   <a href="https://github.com/Satriasensei/project2">
