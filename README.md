@@ -5,7 +5,7 @@
 
 <h1 align="center">🦋 こんにちは — I'm <strong>Satriasensei</strong>!</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Butterfly+Breathing;Clean+Code+%26+Calm+Mind;Open+Source+%F0%9F%92%9C;Kimetsu+no+Yaiba+Fan&center=true&width=500&height=45&color=8B5CF6&pause=1000&size=24"/>
+  <img src="https://readme-typing-svg.demolab.com?lines=Butterfly+Breathing;Clean+Code+%26+Calm+Mind;Open+Source+%F0%9F%92%9C;Kimetsu+no+Yaiba+Fan;Fullstack+Learner&center=true&width=600&height=45&color=8B5CF6&pause=1000&size=24"/>
 </p>
 
 <blockquote align="center">
@@ -29,28 +29,38 @@
 
 ---
 
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://instagram.com/satria_adinata15"><img src="https://img.shields.io/badge/Instagram-8B5CF6?logo=instagram&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-14B8A6?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://youtube.com/@yourchannel"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"/></a>
+</p>
+
+---
+
 ### ⚙ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,tailwind,js,mysql,git,github,figma,vscode,html,css" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,tailwind,js,mysql,git,github,figma,vscode,html,css,react,dart,flutter"/>
 </p>
 
 ---
 
 ### 🏆 GitHub Trophy
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Satriasensei&theme=dracula&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Satriasensei&theme=tokyonight&margin-w=10&margin-h=10&no-bg=true"/>
 </p>
 
 ---
 
-### 📊 Stats
+### 📊 Stats & Metrics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Satriasensei&show_icons=true&hide_border=true&title_color=8B5CF6&text_color=C4B5FD&icon_color=A78BFA&bg_color=0D1117" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satriasensei&layout=compact&hide_border=true&title_color=14B8A6&text_color=99F6E4&bg_color=0D1117" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Satriasensei&theme=transparent&date_format=j%20M%5B%20Y%5D&ring=8B5CF6&fire=22D3EE&currStreakLabel=A78BFA" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Satriasensei&theme=transparent&date_format=j%20M%5B%20Y%5D&ring=8B5CF6&fire=22D3EE&currStreakLabel=A78BFA"/>
 </p>
 
 ---
@@ -64,52 +74,64 @@
 
 ### 🐍 Animasi Kontribusi
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Satriasensei/Satriasensei/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Satriasensei/Satriasensei/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
-### 🧪 Project Pilihan
-- 🦋 *UI/UX* — Sistem Uang Kas  
-- 🌸 *Web Design* — Website Sekolah  
-- 🧬 *Figma Prototype* — Web Company Profile  
-
----
-
-### 🖼 Galeri Shinobu
+### 🎶 Spotify Now Playing
 <p align="center">
-  <img src="shinobu kocho official art!🦋.jpeg" width="30%"/>
-  <img src="55cd6cdb-53c6-4e77-95d8-62da3229f3c0.jpeg" width="30%"/>
-  <img src="80b1fffd-a47a-47c3-9c94-e3f4c3488b77.jpeg" width="30%"/>
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&bar_color=8b5cf6&bar_color_cover=false"/>
+  </a>
 </p>
 
 ---
 
 ### 🌸 Random Anime Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 ---
 
-### 🎨 Palet Warna Shinobu
-| Warna       | Hex     | Contoh |
-|-------------|---------|--------|
-| Lavender    | #8B5CF6 | <img src="https://singlecolorimage.com/get/8B5CF6/15x15"/> |
-| Lilac       | #A78BFA | <img src="https://singlecolorimage.com/get/A78BFA/15x15"/> |
-| Teal        | #14B8A6 | <img src="https://singlecolorimage.com/get/14B8A6/15x15"/> |
-| Night       | #0D1117 | <img src="https://singlecolorimage.com/get/0D1117/15x15"/> |
-| Soft White  | #F8FAFC | <img src="https://singlecolorimage.com/get/F8FAFC/15x15"/> |
+### 💻 Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Clean%20Code%20Always%20Wins"/>
+</p>
+
+---
+
+### 😂 Random Joke
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true"/>
+</p>
 
 ---
 
 ### 📌 Pinned Projects
 <p align="center">
-  <a href="[https://github.com/Satriasensei/project1](https://github.com/Satriasensei/Project-Sistem-Uang-Kas-Kelas-XI-RPL-1.git)">
-    <img src="[https://github-readme-stats.vercel.app/api/pin/?username=Satriasensei&repo=project1&theme=tokyonight](https://github.com/Satriasensei/Project-Sistem-Uang-Kas-Kelas-XI-RPL-1.git)"/>
+  <a href="https://github.com/Satriasensei/Project-Sistem-Uang-Kas-Kelas-XI-RPL-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satriasensei&repo=Project-Sistem-Uang-Kas-Kelas-XI-RPL-1&theme=tokyonight"/>
   </a>
   <a href="https://github.com/Satriasensei/project2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satriasensei&repo=project2&theme=tokyonight"/>
+  </a>
+</p>
+
+---
+
+### ⏱ WakaTime Coding Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### ☕ Support Me
+<p align="center">
+  <a href="https://ko-fi.com/YOUR_USERNAME" target="_blank">
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" alt="Buy Me a Coffee"/>
   </a>
 </p>
 
