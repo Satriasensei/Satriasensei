@@ -1,4 +1,4 @@
-<!-- Profil GitHub — Tema Shinobu Kochou -->
+<!-- 🌸 Profil GitHub — Tema Shinobu Kochou -->
 <p align="center">
   <img src="17ffdc68-be15-47bd-8c89-50b4696488b7.jpeg" alt="Banner Shinobu" width="100%"/>
 </p>
@@ -16,20 +16,30 @@
 
 ### 🦋 Tentang Saya
 - 💜 Penggemar *Shinobu Kochou*
-- 🧪 Fokus di *Laravel, **Tailwind CSS, **JavaScript, **MySQL*.
-- 🌱 Sedang belajar *Clean Architecture* dan *Testing*.
-- 📫 Kontak: igedesatriaadinata@gmail.com | IG: @satria_adinata15
+- 🧪 Fokus di *Laravel, Tailwind CSS, JavaScript, MySQL*
+- 🌱 Sedang belajar *Clean Architecture* dan *Testing*
+- 📫 Kontak: **igedesatriaadinata@gmail.com** | IG: [@satria_adinata15](https://instagram.com/satria_adinata15)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Satriasensei&label=Profile%20Views&color=8B5CF6&style=for-the-badge"/>
+  <a href="https://github.com/Satriasensei?tab=followers">
+    <img src="https://img.shields.io/github/followers/Satriasensei?label=Followers&style=for-the-badge&color=A78BFA"/>
+  </a>
+</p>
 
 ---
 
-### ⚙ Programming Languages That I Learned
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+### ⚙ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,tailwind,js,mysql,git,github,figma,vscode,html,css" />
+</p>
+
+---
+
+### 🏆 GitHub Trophy
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Satriasensei&theme=dracula&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
+</p>
 
 ---
 
@@ -45,44 +55,66 @@
 
 ---
 
-### 🖼 Galeri
+### 📈 Aktivitas Terbaru
 <p align="center">
-  <img src="⏤͟͟͞͞𝘋𝘦𝘮𝘰𝘯 𝘚𝘭𝘢𝘺𝘦𝘳 _ 𝘐𝘤𝘰𝘯𝘴.jpeg" width="32%"/>
-  <img src="shinobu kocho official art!🦋.jpeg" width="32%"/>
-  <img src="5a74aa3a-aae6-45c9-9a1f-dca0e423ad13.jpeg" width="32%"/>
-  <img src="55cd6cdb-53c6-4e77-95d8-62da3229f3c0.jpeg" width="32%"/>
-  <img src="9a335826-3152-4468-9085-d3dffec6c0c2.jpeg" width="32%"/>
-  <img src="80b1fffd-a47a-47c3-9c94-e3f4c3488b77.jpeg" width="32%"/>
-  <img src="#shinobu#icon#demonslayershinobu#shinobukocho.jpeg" width="32%"/>
-  <img src="#demonslayer #shinobu #kochoshinobu #manga.jpeg" width="32%"/>
-  <img src="#aesthetic #icon #anime #demonslayer #edit #free.jpeg" width="32%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satriasensei&bg_color=0d1117&color=8b5cf6&line=a78bfa&point=14b8a6&area=true&hide_border=true"/>
+</p>
+
+---
+
+### 🐍 Animasi Kontribusi
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Satriasensei/Satriasensei/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
 
 ### 🧪 Project Pilihan
-- 🦋 *Tampilan UI* — Membuat Project Sistem Uang Kas
-- 🌸 *Desain Web* — Membuat Desain Website Sekolah
-- 🧬 *UX* — Membuat Desain Web di Figma  
+- 🦋 *UI/UX* — Sistem Uang Kas  
+- 🌸 *Web Design* — Website Sekolah  
+- 🧬 *Figma Prototype* — Web Company Profile  
 
 ---
 
-> “Tetap tenang, tapi jangan lengah. Kupu-kupu terlihat rapuh, namun racunnya mematikan.”
+### 🖼 Galeri Shinobu
+<p align="center">
+  <img src="shinobu kocho official art!🦋.jpeg" width="30%"/>
+  <img src="55cd6cdb-53c6-4e77-95d8-62da3229f3c0.jpeg" width="30%"/>
+  <img src="80b1fffd-a47a-47c3-9c94-e3f4c3488b77.jpeg" width="30%"/>
+</p>
+
+---
+
+### 🌸 Random Anime Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ---
 
 ### 🎨 Palet Warna Shinobu
-| Warna       | Hex       | Contoh |
-|-------------|-----------|--------|
-| Lavender    | #8B5CF6 | <img src="https://singlecolorimage.com/get/8B5CF6/15x15" /> |
-| Lilac       | #A78BFA | <img src="https://singlecolorimage.com/get/A78BFA/15x15" /> |
-| Teal        | #14B8A6 | <img src="https://singlecolorimage.com/get/14B8A6/15x15" /> |
-| Night       | #0D1117 | <img src="https://singlecolorimage.com/get/0D1117/15x15" /> |
-| Soft White  | #F8FAFC | <img src="https://singlecolorimage.com/get/F8FAFC/15x15" /> |
+| Warna       | Hex     | Contoh |
+|-------------|---------|--------|
+| Lavender    | #8B5CF6 | <img src="https://singlecolorimage.com/get/8B5CF6/15x15"/> |
+| Lilac       | #A78BFA | <img src="https://singlecolorimage.com/get/A78BFA/15x15"/> |
+| Teal        | #14B8A6 | <img src="https://singlecolorimage.com/get/14B8A6/15x15"/> |
+| Night       | #0D1117 | <img src="https://singlecolorimage.com/get/0D1117/15x15"/> |
+| Soft White  | #F8FAFC | <img src="https://singlecolorimage.com/get/F8FAFC/15x15"/> |
 
+---
+
+### 📌 Pinned Projects
+<p align="center">
+  <a href="https://github.com/Satriasensei/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satriasensei&repo=project1&theme=tokyonight"/>
+  </a>
+  <a href="https://github.com/Satriasensei/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satriasensei&repo=project2&theme=tokyonight"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=14B8A6&text=Arigatou%20%F0%9F%A6%8B&fontColor=0D1117&fontSize=40&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=14B8A6&height=120&section=footer&text=Arigatou%20🦋&fontSize=30&fontColor=0D1117"/>
 </p>
