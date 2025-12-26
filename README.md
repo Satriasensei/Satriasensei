@@ -64,22 +64,6 @@
 
 ---
 
-## 📌 Featured Projects
-<p align="center">
-  <a href="https://github.com/Satriasensei/Project-Sistem-Uang-Kas-Kelas-XI-RPL-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satriasensei&repo=Project-Sistem-Uang-Kas-Kelas-XI-RPL-1&theme=tokyonight"/>
-  </a>
-</p>
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Satriasensei/Satriasensei/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=footer&text=Arigatou%20🦋&fontSize=28&fontColor=0D1117"/>
 </p>
